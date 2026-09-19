@@ -8,6 +8,7 @@ AI Interview Coach provides a simple platform where users can choose an intervie
 
 ## ✨ Features
 
+
 - 🐍 Python interview practice
 - 🤖 Machine Learning questions
 - 🗄️ SQL questions
